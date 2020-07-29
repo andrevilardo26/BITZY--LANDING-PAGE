@@ -1,0 +1,22 @@
+Fio Cruz - sites Peru e JV ()  - Curos de boas práticas de
+
+Site dos Advogados (Breno fazendo design) - HTML, CSS, JS
+
+Radar do Preconceito - (Nathan, Christopher)
+
+InFogo - Radar de incêndio - Precisa de CNPJ e Nota Fiscal
+
+
+
+ * BITZY
+
+ - Nós somos uma Software House.
+ - Visão: Inovação - Democratização da inovação tecnológica
+ - Missão: Qualidade - Sermos reconhecidos através de nossos produtos como sinônimo de qualidade
+ - Valores: Inttegridade, simplicidade - Mantermos a qualidade porém com simplicidade e mantendo a integridade
+
+* Público Alvo - Pequeno e médio empreededor.
+
+* Visual - Trabalhar com pixelizado, Jovial, Mega Pix, 8 BIT, bits, Cubos, "MegaPix"
+
+* Midia KIT - Minimalista, bem branco, clean, e bonito
